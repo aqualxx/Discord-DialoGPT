@@ -1,0 +1,4 @@
+/env
+/models/**
+/bot_scripts/**
+/ChatBot/__pycache__
